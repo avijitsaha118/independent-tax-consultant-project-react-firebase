@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Indivitual Tax Return",
+        "price": "200",
+        "description": "Last 10 Years I extremely experienced in this field. You can complete your individual Tax return submission and take the necessary advice from me. Returns are prepared with highly importance of your wealth, assets, expenses, and everything else.",
+        "img": "https://i.ibb.co/wMVwmD5/income-tax.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Company Tax Return",
+        "price": "500",
+        "description": "Complete your company tax return processing and submission from me. The service I provide reduces the chance of file or comapny Tax audits in the future. Because the return is submitted only after a thorough analysis.",
+        "img": "https://i.ibb.co/xX7pmXq/company.png"
+    },
+    {
+        "id": 3,
+        "name": "1 Hour Tax Advising",
+        "price": "150",
+        "description": "A special session to discuss in-depth issues related to tax planning, income, and expenditure throughout the year. The main purpose of this session is to make your or your company's tax planning smart, reliable, and hassle free.",
+        "img": "https://i.ibb.co/JQQb3c4/consultancy.jpg"
+    }
+]
