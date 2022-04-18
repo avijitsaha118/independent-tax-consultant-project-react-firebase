@@ -12,7 +12,7 @@ const Features = () => {
     ]
     return (
         <div className='container'>
-                        <h2 className='text-primary text-center mt-3'>Special Features</h2>
+                        <h2 className='text-success text-center mt-3'>Special Features</h2>
                         <p style={{fontSize:"20px"}}>This year I declare a special discount offer on Individual Tax Return for the Doctors, Teachers and Web developers.</p>
             <div className='row'>
                 {
