@@ -88,13 +88,13 @@ const Login = () => {
           <Form.Control ref={passwordRef} type="password" placeholder="Password" required />
         </Form.Group>
 
-        <Button variant="primary w-50 mx-auto d-block" type="submit">
+        <Button variant="success w-50 mx-auto d-block" type="submit">
           Login
         </Button>
       </Form>
       {errorElement}
-      <p>New to our site? <Link to='/register' className='text-danger pe-auto text-decoration-none' onClick={navigateRegister}>Please Register</Link></p>
-      <p>Forget password? <button className='btn btn-link text-primary pe-auto text-decoration-none' onClick={resetPassword}> Reset Password </button></p>
+      <p>New to our site? <Link to='/register' className='text-success pe-auto text-decoration-none' onClick={navigateRegister}>Please Register</Link></p>
+      <p>Forget password? <button className='btn btn-link text-success pe-auto text-decoration-none' onClick={resetPassword}> Reset Password </button></p>
       <SocialLogin></SocialLogin>
       <ToastContainer />
     </div>
