@@ -56,8 +56,20 @@ const Blogs = () => {
 <p>Firebase is a platform by Google that provides functionalities and helps with the backend development of your Android, iOS, or web and even some products that support Unity3D too.
 The Firebase Realtime Database lets you build rich, collaborative applications by allowing secure access to the database directly from client-side code. Data is persisted locally, and even while offline, realtime events continue to fire, giving the end user a responsive experience.
 Firebase concept is simple. When you build a client-side app with JavaScript or any of its frameworks, for instance, Google Firebase can turn this into a serverless app in no time. It also removes the need to manage databases yourself, as it does that for you.
+<br/>
+Five Common Authentication Types are 
+Password-based authentication, Multi-factor authentication, Certificate-based authentication, Biometric authentication, Token-based authentication.
+<br/>
+
 </p>
 
+<h3>Question-03: What other services does firebase provide other than authentication?</h3>
+
+<h2> Answer:</h2>
+<p>
+There are many services which Firebase provides, Most useful of them are:
+Cloud Firestore, Cloud Functions, Authentication, Hosting, Cloud Storage, Google Analytics, Predictions, Cloud Messaging, Dynamic Links, Remote Config.
+</p>
 
 
         </div>
