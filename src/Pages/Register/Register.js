@@ -55,7 +55,7 @@ const [agree, setAgree] =useState(false);
                 <input type='password' name='password' id='' placeholder='Password' required></input>
                 <input onClick={()=>setAgree(!agree)} type='checkbox' name='terms' id='terms'></input>
                 {/* <label className={agree ? 'ps-2 text-primary' : 'ps-2 text-danger'} htmlFor='terms'>Accept Genius Car Terms and Conditions</label> */}
-                <label className={`ps-2 ${agree? '' : 'text-danger'}`} htmlFor='terms'>Accept Genius Car Terms and Conditions</label>
+                <label className={`ps-2 ${agree? '' : 'text-danger'}`} htmlFor='terms'>Accept Terms and Conditions</label>
                 <input disabled={!agree}
                 className='w-50 mx-auto btn-primary mt-2' type='submit' value='Register'></input>
             </form>

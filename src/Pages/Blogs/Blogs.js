@@ -53,7 +53,10 @@ const Blogs = () => {
 <h3>Question-02: Why are you using firebase? What other options do you have to implement authentication?</h3>
 
 <h2> Answer:</h2>
-<p></p>
+<p>Firebase is a platform by Google that provides functionalities and helps with the backend development of your Android, iOS, or web and even some products that support Unity3D too.
+The Firebase Realtime Database lets you build rich, collaborative applications by allowing secure access to the database directly from client-side code. Data is persisted locally, and even while offline, realtime events continue to fire, giving the end user a responsive experience.
+Firebase concept is simple. When you build a client-side app with JavaScript or any of its frameworks, for instance, Google Firebase can turn this into a serverless app in no time. It also removes the need to manage databases yourself, as it does that for you.
+</p>
 
 
 
